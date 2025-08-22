@@ -1,0 +1,61 @@
+{
+  "1": "BAACAgIAAxkBAAMgaKZQmM3k4lvmwxdTgh5vV8KiZDYAAhJ5AAILDrBIKe2omFcZ9bQ2BA",
+  "/start": {
+    "message_id": 302,
+    "from": {
+      "id": 2143535441,
+      "is_bot": false,
+      "first_name": "Asliddin",
+      "username": "Asliddinamriddinov",
+      "language_code": "uz"
+    },
+    "chat": {
+      "id": 2143535441,
+      "first_name": "Asliddin",
+      "username": "Asliddinamriddinov",
+      "type": "private"
+    },
+    "date": 1755852959,
+    "forward_origin": {
+      "type": "user",
+      "sender_user": {
+        "id": 8286923994,
+        "is_bot": true,
+        "first_name": "Kino bot",
+        "username": "Jahon_kinoslari_bot"
+      },
+      "date": 1755852876
+    },
+    "forward_from": {
+      "id": 8286923994,
+      "is_bot": true,
+      "first_name": "Kino bot",
+      "username": "Jahon_kinoslari_bot"
+    },
+    "forward_date": 1755852876,
+    "video": {
+      "duration": 7714,
+      "width": 854,
+      "height": 480,
+      "file_name": "Mehr Hududi 480p O'zbek tilida (asilmedia.net).mp4",
+      "mime_type": "video/mp4",
+      "thumbnail": {
+        "file_id": "AAMCAgADGQEAAyBoplCYzeTiW-bDF1OCHm9XwqJkNgACEnkAAgsOsEgp7aiYVxn1tAEAB20AAzYE",
+        "file_unique_id": "AQADEnkAAgsOsEhy",
+        "file_size": 1096,
+        "width": 320,
+        "height": 180
+      },
+      "thumb": {
+        "file_id": "AAMCAgADGQEAAyBoplCYzeTiW-bDF1OCHm9XwqJkNgACEnkAAgsOsEgp7aiYVxn1tAEAB20AAzYE",
+        "file_unique_id": "AQADEnkAAgsOsEhy",
+        "file_size": 1096,
+        "width": 320,
+        "height": 180
+      },
+      "file_id": "BAACAgIAAxkBAAMgaKZQmM3k4lvmwxdTgh5vV8KiZDYAAhJ5AAILDrBIKe2omFcZ9bQ2BA",
+      "file_unique_id": "AgADEnkAAgsOsEg",
+      "file_size": 813005180
+    }
+  }
+}
