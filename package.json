@@ -1,16 +1,12 @@
-{
-  "name": "KinoBot",
+﻿{
+  "name": "kino-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Telegram kino bot",
+  "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "node-telegram-bot-api": "^0.57.0"
-  },
-  "devDependencies": {},
-  "description": ""
+    "node-telegram-bot-api": "^0.61.0"
+  }
 }
